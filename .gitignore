@@ -1,1 +1,11 @@
 .env
+
+nlp_to_sql.py
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
