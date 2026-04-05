@@ -1,4 +1,4 @@
-# open-ai-project
+# Open AI utilities project
 
 Small Python experiments against the [OpenAI API](https://platform.openai.com/docs/overview). The main flow generates short, alt-text-style descriptions for a list of **public image URLs** using a vision-capable model (`gpt-4o-mini`), with requests sent **concurrently** via `asyncio`.
 
